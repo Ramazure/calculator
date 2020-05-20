@@ -14,3 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+https://dev.azure.com/rameshvzm2020/testramm/_apis/build/status/Ramazure.calculator?branchName=master
+[![Build Status](https://dev.azure.com/rameshvzm2020/testramm/_apis/build/status/Ramazure.calculator?branchName=master)](https://dev.azure.com/rameshvzm2020/testramm/_build/latest?definitionId=4&branchName=master)
